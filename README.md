@@ -1,8 +1,8 @@
 # WEALTHSIMPLE INC.
-    OVERVIEW AND ORIGIN
+## OVERVIEW AND ORIGIN
 ### Wealthsimple is a Canadian investment firm, based in Toronto, ON, which provides investments solutions through their platform for trading stocks, EFTs, options, cryptocurrencies and other investment products in Canada and the USA. The company was incorporated in September in 2014 by Michael Katchen, Brett Huneycutt and Rudy Adler. The vision behind establishing the company is to mitigate the barriers that are present in the traditional IRA or managed fund for most people for their engagement in the investment market. They also provide the features and tools that mostly the rich society have access to, in a simpler fashion with the increased affordability. The organization had its initial funding of $2 Million to start its operations. The investors who pitched in to raise this amount are Joe Canavan, Roger Martin, David Ossip, Dan Debow and Canadian venture capital firm Impression Ventures.
 ---
-    BUSINESS ACTIVITIES
+## BUSINESS ACTIVITIES
 ### Wealthsimple primarily focuses on the retail investors among the millennials (people of age between 23 and 38) as opposed to the conventional investment system’s target ages from 45 and above. The business model of the organization allows the client to trade with zero commissions with no requirements of the minimum balances. This solves the most fundamental problem that company aims to resolve, which is providing access to the market for the millennials and helping them start at the earliest possible stage. The platform has savings and checking accounts of no minimum deposit requirement available with interest provided. This is provided through the business stream called *Wealthsimple cash*, where the clients can directly deposit money or their payroll to wealth simple account. They also provide free online tax return software to the clients. Theses features provide capabilities to the clients to create and hold their wealth paving path for further involvement in the market and wealth generation.
 
 ### The knowledge of the client on the market and instruments involved is perceived of importance by the organization. Although the clients can opt to invest hands-on in the market through the platform, it also provides its state-of-the-art Robo advisors to the clients. Wealth Simple holds the most upper hand and unfair advantage over its competitors in this arena. It is the best in class available to the retail investors in Canada, made possible with the incorporation of cutting-edge technology. The investors can choose to have the robo advisors to automatically allocate funds in accordance with the strategies and portfolio designed by financial experts, primarily with mutual funds and EFTs for a much probable steady growth over long term. These are done with maximised savings on the taxes.  This advising service is charged as low as around 0.5% as opposed to 2% and higher most seen in the traditional system.
@@ -27,7 +27,7 @@
 | Marketing and sales tools | Zendesk |
 | Monitoring | Amazon CloudWatch, Rollbar, ELK, PagerDuty, Datadog |
 ---
-    LANDSCAPE OF THE INDUSTRY
+## LANDSCAPE OF THE INDUSTRY
 ### Wealthsimple is an active and leading player in the online capital investment sector for retail investors and traders. Canadian economy has a market capitalization of USD 2.9 Trillion as of February, 2023.  This economy is diverse and has shown upward trend over the time. The following shows the chart of how the Canadian market has performed in the last 10 years published by ‘CEIC Data’.
 
 ![Canadian Economy](canadian_economy.png)
@@ -55,14 +55,19 @@
 
 ###  Some of the major competitors to Wealthsimple are Questrade, TD Direct trading, Interactive brokers, Qtrade and Scotia iTrade. All these companies have their own policies and features with distinct capabilities.
 ---
-    RESULTS
+## RESULTS
 ### Wealthsimple is now an investment company that has assets under management of worth at approximately $17.5 Billion as of September, 2022 with a client base of estimated 3 million. It has created a wave in the retail investment market as being one of the first zero commission trading platforms where most of its competitors charge around $4.95 to up to $9.95 or more per trade. As per the article published on Finder.com by Romana King, Senior Finance Editor at Finder, in May 2023, titled *Statistics and Facts about Stock Market 2023* - a survey was performed called *Finder: World Stock Market Survey* by asking more than 1200 Canadians of which online platform they use to carry out the investing and trading activities in 2021. This question was repeated in the year 2022. The finding is that popularity of trading platforms can change over time. Wealthsimple was collectively ranked from 3 to 1 during this time among its competitors. The result of the survey is as follows.
 
 ![Survery Findings](survey.png)
 
 ### The absence of annual account fee is also an aspect that makes Wealthsimple stand out in its competition as most of the top players charge this fee. It is also commendable fact that Wealthsimle also provides he platform to trade crypto currencies as well, posing itself to be a complete package in the industry. However, even if the robo advisors and automated trade operations are cheaper compared to conventional methods in fees, there are platforms that provide this service at lower cost. Questrade could be taken as an example. The fair side of this scenario for wealth simple is that it stands closest to latest technologies and trends. It definitely stays as an advantage which can produce better results in its competion.
 ---
-    RECOMMENDATIONS
+## RECOMMENDATIONS
 ### Wealthsimple had proven itself to be a very efficient platform that will help retail investors dive into the market to make their investments using the different tools that are available. However, it is recommended to have a section initiated where the clients could have a session with the traders directly on the play. Wealthsimple already provides certain materials and articles on its website which could be accessed for free. This is a great resource to make a foundational understanding of the concepts.  Michael Katchen, the founder and CEO of Wealthsimple, have stated in an article published by *The Globe and Mail* on February 10, 2021 that “*I fundamentally believe that, as a business that allows people to invest their savings in the market, we have a deep responsibility to our clients to help educate and empower them to make informed decisions. *”.  Focussing on this idea of wealth simple, for a higher transparency of the concept of investing and trading to the clients, providing the opportunity to witness how experts carry out their trades on live sessions would be very helpful. As a part of this dynamic activity, Q&A sessions could also be arranged. The chances of more clients signing up to the platform would also rise since there are all the materials along with live demonstration that could help them achieve knowledge and their financial goals along side the automated robo advisor financing. As these kinds of courses are usually provided with higher fee outside, making these available at lower fee to the clients would make it another stream of income to wealth simple. A communication platform will be required which could support video sharing for this purpose. A platform such as zoom would be a good fit due to its flexibility and features for lecturing and demonstration. Amazon Cloudfront is a technology that could be encompassed with it, as it provides the feature to share text files, charts, audio and video files related to the session conducted or as a prework to the session that is going to be conducted. As Amazon Cloudfront provides seamless content sharing with high data transfer speed and low latency the access to contents including the recordings of previous sessions could be made available to the clients with superior experience helping the organization in providing more value to them. 
 
+---
+## REFERENCES
+The references are arranged and enlisted in accordance to the subtopics in the folder below.
+
+[REFERENCES](REFERENCES)
 
